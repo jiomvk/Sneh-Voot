@@ -11,7 +11,7 @@
 ♢ e.g --> I Use This Link :<br><br>
 
 
-## ReadyMade 😂 Site for VOOT Stream 👉 <tt>https://snehvoot.epizy.com/</tt> 👈 <br><br>
+## ReadyMade 😂 Site for VOOT Stream 👉 <tt>http://snehvoot.epizy.com/</tt> 👈 <br><br>
 
 
 ### For Movies<br><br>
