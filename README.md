@@ -1,3 +1,5 @@
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/8/89/Voot_website_logo.png" ></p>
+
 <h1 align="center"> ⚒ VOOT STREAM SCRAPPER 🔐 </h1>
 
 <p align="center"> It can Scrap Premium VOOT Movies , Series and TV Shows Using URL</p>
@@ -11,7 +13,7 @@
 ♢ e.g --> I Use This Link :<br><br>
 
 
-## ReadyMade 😂 Site for VOOT Stream 👉 <tt>http://snehvoot.epizy.com/</tt> 👈 <br><br>
+## ReadyMade 😂 Site for VOOT Stream 👉 <tt>http://snehvoot.ueuo.com/</tt> 👈 <br><br>
 
 
 ### For Movies<br><br>
@@ -19,7 +21,7 @@
 *Request:*
 
 ```bash
-http://snehvoot.epizy.com/voot.php?q=https://www.voot.com/movies/k-g-f-chapter-1-hindi/965391
+http://snehvoot.ueuo.com/voot.php?q=https://www.voot.com/movies/k-g-f-chapter-1-hindi/965391
 ```
 
 *Response:*
@@ -38,7 +40,7 @@ http://snehvoot.epizy.com/voot.php?q=https://www.voot.com/movies/k-g-f-chapter-1
 *Request:*
 
 ```bash
-http://snehvoot.epizy.com/voot.php/?q=https://www.voot.com/shows/bigg-boss/14/978245/papa-ki-pari-hui-emotional/1072176
+http://snehvoot.ueuo.com/voot.php/?q=https://www.voot.com/shows/bigg-boss/14/978245/papa-ki-pari-hui-emotional/1072176
 ```
 
 *Response:*
@@ -55,7 +57,7 @@ http://snehvoot.epizy.com/voot.php/?q=https://www.voot.com/shows/bigg-boss/14/97
 <br><br>
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The index.php code and Host on repl.it or heroku as your wish <br> or Your Hosting Otherwise Use http://snehvoot.epizy.com/
+<h5 align="center"> Copy The index.php code and Host on repl.it or heroku as your wish <br> or Your Hosting Otherwise Use http://snehvoot.ueuo.com/
 <br>
   
 ---
