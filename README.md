@@ -21,7 +21,7 @@
 *Request:*
 
 ```bash
-http://snehvoot.ueuo.com/voot.php?q=https://www.voot.com/movies/k-g-f-chapter-1-hindi/965391
+http://snehvoot.ueuo.com/?c=https://www.voot.com/movies/k-g-f-chapter-1-hindi/965391
 ```
 
 *Response:*
@@ -40,7 +40,7 @@ http://snehvoot.ueuo.com/voot.php?q=https://www.voot.com/movies/k-g-f-chapter-1-
 *Request:*
 
 ```bash
-http://snehvoot.ueuo.com/voot.php/?q=https://www.voot.com/shows/bigg-boss/14/978245/papa-ki-pari-hui-emotional/1072176
+http://snehvoot.ueuo.com/?c=https://www.voot.com/shows/bigg-boss/14/978245/papa-ki-pari-hui-emotional/1072176
 ```
 
 *Response:*
